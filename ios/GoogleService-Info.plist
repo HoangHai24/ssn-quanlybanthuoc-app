@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>660394210795-k010omn1kvjikfom174t0ld714htimh2.apps.googleusercontent.com</string>
+	<string>541117570427-6kva8toh389elub6ebs7cvc59dh3lrnf.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.660394210795-k010omn1kvjikfom174t0ld714htimh2</string>
+	<string>com.googleusercontent.apps.541117570427-6kva8toh389elub6ebs7cvc59dh3lrnf</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>660394210795-hlobuh9kct3jtimbkb1fa2ff07lv3pig.apps.googleusercontent.com</string>
+	<string>541117570427-96re52h2lmpbrl173fj5658n9bdn01eu.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCwH6nZ5St91qgWcENPdQkTACr_dLUo5ZM</string>
+	<string>AIzaSyDxmB7P7LLTYXP_cNRfPYi3Us0sazAp5bM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>660394210795</string>
+	<string>541117570427</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.kynguyenso.quanlybanthuoc</string>
+	<string>com.vnp.quanlybanthuoc</string>
 	<key>PROJECT_ID</key>
-	<string>quanlybanthuoc-b6d86</string>
+	<string>quanlybanthuoc-1226</string>
 	<key>STORAGE_BUCKET</key>
-	<string>quanlybanthuoc-b6d86.appspot.com</string>
+	<string>quanlybanthuoc-1226.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:660394210795:ios:3b4743f4481c8be53295ae</string>
+	<string>1:541117570427:ios:7773d1a0f8edeacb</string>
 	<key>DATABASE_URL</key>
-	<string>https://quanlybanthuoc-b6d86.firebaseio.com</string>
+	<string>https://quanlybanthuoc-1226.firebaseio.com</string>
 </dict>
 </plist>

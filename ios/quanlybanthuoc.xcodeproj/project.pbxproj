@@ -673,17 +673,18 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "quanlybanthuoc/Quản Lý Bán Thuốc.entitlements";
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 20;
 				DEVELOPMENT_TEAM = 2L57K5T65T;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = quanlybanthuoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.2.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kynguyenso.quanlybanthuoc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vnp.quanlybanthuoc;
 				PRODUCT_NAME = "Quản Lý Bán Thuốc";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -699,16 +700,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "quanlybanthuoc/Quản Lý Bán Thuốc.entitlements";
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 20;
 				DEVELOPMENT_TEAM = 2L57K5T65T;
 				INFOPLIST_FILE = quanlybanthuoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.2.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kynguyenso.quanlybanthuoc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vnp.quanlybanthuoc;
 				PRODUCT_NAME = "Quản Lý Bán Thuốc";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
